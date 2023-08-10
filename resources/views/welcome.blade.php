@@ -10,7 +10,6 @@
 </head>
 
 <body>
-    <h3 class="text-red-500">Halo</h3>
 </body>
 
 </html>
